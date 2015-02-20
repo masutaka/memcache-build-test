@@ -1,0 +1,5 @@
+machine:
+  timezone:
+    Asia/Tokyo
+  environment:
+    LDFLAGS: -L/home/ubuntu/.rvm/rubies/ruby-2.1.5/lib -R-L/home/ubuntu/.rvm/rubies/ruby-2.1.5/lib
